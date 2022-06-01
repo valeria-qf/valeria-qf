@@ -1,7 +1,6 @@
 ## Hi, my name is Valéria!
-### 👩‍💻📚 Student of Systems Analysis and Development
 
-
+#### Graduate in Systems Analysis and Development 
 
 <div>
   <a href="https://github.com/valeria-qf">

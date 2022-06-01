@@ -1,6 +1,6 @@
 ## Hi, my name is Valéria!
 
-### Graduating Systems Analysis and Development 👩‍💻 
+### I'm a graduate in Systems Analysis and Development👩‍💻 
 
 
 

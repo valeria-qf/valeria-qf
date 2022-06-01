@@ -1,6 +1,6 @@
 ## Hi, my name is Valéria!
 
-#### Graduating Systems Analysis and Development
+### Graduating Systems Analysis and Development 👩‍💻 
 
 
 
@@ -17,7 +17,7 @@
 ```javascript
 const Valéria = {
   pronouns: "she" | "her";
-  code: [HTML, CSS, C++, loading...];
+  code: [HTML, CSS, C/C++, loading...];
   dream: "Live different experiences and be a great professional some day.";
                                        
  challenge: "Learn a new thing every day.";

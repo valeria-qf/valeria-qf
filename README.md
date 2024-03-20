@@ -10,19 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-qf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-   ##
- 
-  ### About me:
 
-```javascript
-const Valéria = {
-  pronouns: "she" | "her";
-  code: [Javascript, C++, Python, loading...];
-  dream: "Live different experiences and be a great professional some day.";
-  
-}
-```
- ##
   
  ### Contacts:
 <div> 

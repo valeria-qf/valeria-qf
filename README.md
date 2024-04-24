@@ -28,8 +28,8 @@
 
 
 <p align="left">
-  <a href="http://www.github.com/valeria-qf"><img src="https://github-readme-stats.vercel.app/api?username=valeria-qf&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="valeria-qf's GitHub stats" height="180" /></a>&nbsp;
-  <a href="http://www.github.com/valeria-qf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-qf&layout=compact&langs_count=7&&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/valeria-qf"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=valeria-qf&show_icons=true&include_all_commits=true&count_private=true&title_color=ada6ff&text_color=F5EFE6&icon_color=7F78D2&bg_color=1c1917&border_color=ada6ff" alt="valeria-qf's GitHub stats"   /></a>&nbsp;&nbsp;&nbsp;
+  <a href="http://www.github.com/valeria-qf"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-qf&layout=compact&langs_count=7&&title_color=ada6ff&text_color=F5EFE6&icon_color=86A789&bg_color=1c1917&border_color=ada6ff"/> </a>
 </p>
 
 

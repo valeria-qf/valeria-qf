@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Valéria!👋🏻</h1>
 <br>
 
-- 📚 Graduate in Systems Analysis and Development - IFRN (5/7)
+- 📚 Graduate in Systems Analysis and Development - IFRN (6/7)
 - 💻 Currently Working at NADIC - IFRN
 <br>
 

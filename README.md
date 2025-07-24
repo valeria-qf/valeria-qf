@@ -40,7 +40,6 @@
 ### Socials
 
 <p align="left"> 
-  <a href="https://instagram.com/valeria_qf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://discord.com/users/valeria_qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>&nbsp;
 <a href="mailto:vvqf2016@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail&logoColor=ff0000" target="_blank"></a>&nbsp;
